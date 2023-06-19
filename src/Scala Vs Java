@@ -1,0 +1,13 @@
+Scala supports lazy evaluation while Java does not
+
+Readability is less in Scala whereas it is more in Java
+
+Scala is a combination of both object oriented and functional programming while Java is a general purpose object oriented language
+
+Scala supports operator overloading while Java does not
+
+Scala code is written in compact form while Java code is written in long form
+
+Scala variables are by default immutable while Java variables are by default mutable
+
+Scala treats every function as a variable while Java treats treats them as objects
